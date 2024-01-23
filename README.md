@@ -9,7 +9,7 @@ Proyek Sistem Informasi Desa - Website merupakan sebuah platform online yang dir
 
 - **Bahasa**: PHP
 - **Database**: MySQL
-- 
+  
 ## Fitur Utama
 
 1. Halaman Utama (Home):
