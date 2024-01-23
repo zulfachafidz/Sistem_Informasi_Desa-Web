@@ -13,25 +13,32 @@ Proyek Sistem Informasi Desa - Website merupakan sebuah platform online yang dir
 ## Fitur Utama
 
 1. Halaman Utama (Home):
+
 Menyajikan gambaran umum dan informasi terkini mengenai aktivitas dan perkembangan desa.
 Berisi berita, pengumuman, atau kegiatan-kegiatan terbaru.
 
 2. Galeri (Galery):
+
 Menampilkan kumpulan foto yang menggambarkan kehidupan sehari-hari, acara-acara penting, dan kemajuan desa.
 
 3. Sejarah (History):
+
 Menyajikan informasi mendalam mengenai sejarah dan perkembangan desa dari masa ke masa.
 
 4. Peta Desa (Village Map):
+
 Memanfaatkan peta interaktif untuk mempermudah pengguna dalam menjelajahi wilayah desa dan menemukan lokasi-lokasi penting.
 
 5. Lowongan Kerja (Job Vacancies):
+
 Memberikan informasi mengenai lowongan pekerjaan di desa, membantu meningkatkan kesempatan pekerjaan bagi warga setempat.
 
 6. Kontak (Contact):
+
 Menyediakan informasi kontak yang dapat dihubungi oleh masyarakat atau pihak luar yang ingin berkomunikasi dengan pemerintah desa.
 
 7. Pertanyaan Umum (Frequently Asked Questions - FAQ):
+
 Menjawab pertanyaan-pertanyaan umum yang sering diajukan oleh masyarakat, memberikan pemahaman yang lebih baik terkait berbagai aspek desa.
 
 ## Kontribusi
